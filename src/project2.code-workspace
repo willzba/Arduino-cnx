@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../xampp/htdocs/project2"
+		},
+		{
+			"name": "plataformesp32",
+			"path": ".."
+		},
+		{
+			"name": "proyectEsp32",
+			"path": "../../proyectEsp32"
+		}
+	],
+	"settings": {}
+}
